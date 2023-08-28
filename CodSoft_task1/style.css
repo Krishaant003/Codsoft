@@ -1,0 +1,81 @@
+body
+{
+ background-image: url(lbg.png);
+ background-size: 100%;
+ 
+}
+.Nav-Bar
+{
+  font-size: 30px;
+  font-style: italic;
+  color: aliceblue;
+  
+}
+.left
+{
+    margin-left: 30px;
+    display: inline-block;
+}
+.left img
+{
+    height:30px;
+    width: 30px;
+    display: inline-block;
+}
+.left p
+{
+    display: inline;
+}
+.right
+{
+    margin-left: 60%;
+    display: inline-block;
+    word-spacing: 8px;
+    
+}
+.right a
+{
+    opacity: 0.6;
+    color: aliceblue;
+    text-decoration: none;
+}
+.right a:active
+{
+    color: aliceblue;
+    opacity: 1;
+    font-weight: bold;
+}
+.main
+{
+    margin: 10% 0px 0px 5%;
+    color: aliceblue;
+    line-height: 3px;
+}
+.heading
+{
+    font-size: 40px;
+    font-stretch: extra-expanded;
+    font-weight: bold;
+}
+.subheading
+{
+    font-size:20px;
+    margin-top: 2px;
+}
+.content
+{
+  opacity: 0.6;
+}
+button
+{
+    margin:5% 0 0 5%;
+    color: aliceblue;
+    font-size: 30px;
+    padding: 10px;
+    background-color: rgb(173, 60, 135);
+}
+button:active
+{
+    background-color: blueviolet;
+    font-weight: bold;
+}
