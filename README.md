@@ -1,5 +1,5 @@
 # Codsoft
 During my internship at Codsoft, I successfully completed the following tasks:     
-* Developed a calculator application  
-* Designed a landing page   
+* Designed a landing page  
+* Developed a calculator application      
 * Created a portfolio page.  
